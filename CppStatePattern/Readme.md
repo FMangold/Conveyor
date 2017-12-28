@@ -1,0 +1,1 @@
+GoF State Pattern implementation
